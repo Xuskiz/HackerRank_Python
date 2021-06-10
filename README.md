@@ -1,2 +1,4 @@
 # HackerRank_Python
-A collection of  questions and solutions to Python problems from HackerRank.com
+This repository holds solutions for Python problems from HackerRank
+
+feel free to add different solutions 
